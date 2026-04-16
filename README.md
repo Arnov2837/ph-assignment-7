@@ -3,7 +3,6 @@
 KeenKeeper is a sophisticated friendship management platform designed to help users nurture and maintain meaningful connections. In a fast-paced world, it's easy to lose touch; KeenKeeper acts as your personal relationship assistant, tracking interactions, setting goals, and providing analytics on your social well-being.
 
 ## 🚀 Live Demo
-https://keen-master.netlify.app/
 
 ## ✨ Key Features
 
@@ -35,9 +34,7 @@ src/
 ⚙️ Installation & Setup
 Clone the repository:
 
-Bash
-git clone https://github.com/MernStackExpert/Keen-Keeper.git
-Install dependencies:
+
 
 Bash
 npm install
@@ -60,7 +57,4 @@ Open http://localhost:3000 in your browser.
 
 [x] Friendship Stats with Recharts
 
-🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
-Developed with ❤️ by MD NIROB SARKAR
+```
