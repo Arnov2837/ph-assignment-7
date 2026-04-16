@@ -2,9 +2,7 @@
 
 KeenKeeper is a sophisticated friendship management platform designed to help users nurture and maintain meaningful connections. In a fast-paced world, it's easy to lose touch; KeenKeeper acts as your personal relationship assistant, tracking interactions, setting goals, and providing analytics on your social well-being.
 
-## 🚀 Live Demo
-
-     ph-assignment-7-psi.vercel.app
+## 🚀 Live Demo ph-assignment-7-psi.vercel.app
 
 ## ✨ Key Features
 
